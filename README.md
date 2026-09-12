@@ -1,5 +1,9 @@
 # AdventureWorks Sales Finance & Pricing Analytics
 
+**Portfolio Project:** Sales Finance & Pricing Analytics | SQL Server + Excel
+
+**Dataset:** AdventureWorksDW2022
+
 ## Project Overview
 
 This portfolio project analyzes AdventureWorks reseller sales data to evaluate sales performance, profitability, product trends, reseller performance, and regional performance. The project combines SQL Server, Excel, Power BI, and AI-assisted analysis to transform raw business data into actionable insights for decision-making.
