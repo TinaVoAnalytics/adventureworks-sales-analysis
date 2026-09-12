@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis
+# AdventureWorks Sales Finance & Pricing Analytics
 
 ## Project Overview
 
